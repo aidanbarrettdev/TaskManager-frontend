@@ -1,4 +1,5 @@
 {
+  "proxy": "https://taskmanager-04c5.onrender.com",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
